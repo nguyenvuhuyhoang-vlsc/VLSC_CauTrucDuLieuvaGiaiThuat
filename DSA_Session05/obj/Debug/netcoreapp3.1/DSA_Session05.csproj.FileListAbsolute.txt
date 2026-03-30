@@ -1,0 +1,13 @@
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session05\bin\Debug\netcoreapp3.1\DSA_Session05.exe
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session05\bin\Debug\netcoreapp3.1\DSA_Session05.deps.json
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session05\bin\Debug\netcoreapp3.1\DSA_Session05.runtimeconfig.json
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session05\bin\Debug\netcoreapp3.1\DSA_Session05.runtimeconfig.dev.json
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session05\bin\Debug\netcoreapp3.1\DSA_Session05.dll
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session05\bin\Debug\netcoreapp3.1\DSA_Session05.pdb
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session05\obj\Debug\netcoreapp3.1\DSA_Session05.csprojAssemblyReference.cache
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session05\obj\Debug\netcoreapp3.1\DSA_Session05.AssemblyInfoInputs.cache
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session05\obj\Debug\netcoreapp3.1\DSA_Session05.AssemblyInfo.cs
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session05\obj\Debug\netcoreapp3.1\DSA_Session05.csproj.CoreCompileInputs.cache
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session05\obj\Debug\netcoreapp3.1\DSA_Session05.dll
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session05\obj\Debug\netcoreapp3.1\DSA_Session05.pdb
+D:\VLSC_CauTrucDuLieuVaGiaiPhau\DSA_Session05\obj\Debug\netcoreapp3.1\DSA_Session05.genruntimeconfig.cache
